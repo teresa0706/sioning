@@ -20,8 +20,8 @@
 
   "nav": [
     { "label": "首頁", "type": "home" },
-    { "label": "校園穿搭", "type": "category", "value": "OUTFIT" },
-    { "label": "生活隨筆", "type": "category", "value": "LIFESTYLE" },
+    { "label": "我的音樂", "type": "category", "value": "OUTFIT" },
+    { "label": "我的", "type": "category", "value": "LIFESTYLE" },
     { "label": "關於我", "type": "about" }
   ],
 
@@ -30,14 +30,10 @@
     "category": "LIFESTYLE",
     "title": "在快節奏的時代，溫溫是我的王子",
     "date": "2026.04.02",
-    "image": "https://cdn.shopify.com/s/files/1/0452/8570/3830/files/GHEZnKmbAAA52Rq_480x480.jpg?v=1709698010",
-    "excerpt": "在這個快節奏的時代，我們總是在趕路，卻忘了為什麼出發。而讀書，是一場最廉價卻也最華麗的旅行...",
+    "image": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oQAQAE4A2evIjAffTAgpHf43ZMaDDKFNct0Tr3~tplv-dy-aweme-images:q75.webp?biz_tag=aweme_images&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1778086800&x-signature=aLw9fHrZEFCNUsuYJtCUXsdHOlo%3D",
+    "excerpt": "在我看來，老公是天、老公是地、老公是溫",
     "content": [
-      "在這個快節奏的時代，我們總是在趕路，卻忘了為什麼出發。讀書，是一場最廉價卻也最華麗的旅行。打開一本書，就像是推開一扇通往異世界的門。",
-      "你可以在字裡行間與偉大的靈魂對話，在別人的故事裡，看見自己尚未覺察的勇氣。那些看似枯燥的文字，終將化作你腳下的路，帶你走過迷茫的荒野。",
-      "我們讀書，不是為了要贏過誰，而是為了開拓人生的可能性。首先，讀書能夠拓寬眼界——看見生活不只有眼前的瑣碎，還有遠方的星辰。",
-      "其次，讀書能夠沈澱心靈——在喧囂的世俗中，為自己留一片安靜的自留地。最後，讀書能夠賦予底氣——當你學識漸長，面對未知的挑戰時，眼神裡會有不一樣的光。",
-      "你讀過的每一本書，都不會白費。它們會藏進你的氣質裡、談吐裡，變成你對抗平庸生活的終極武器。所以，不要害怕讀書，去翻開那一本本等待你的書籍吧。"
+      "吳是溫這個人真的該被管制，一開始你以為只是名字在溫，結果本人根本是移動式電暖器＋不定時爆笑機。別人戀愛送驚喜，他直接送「氣候變遷」，靠近五秒體感+5度，抱一下直接進入夏天模式。最扯的是他講笑話的功力，冷到可以當冷氣開，但下一秒又把你笑到發燙，整個人溫差失控。你本來還想理性分析，結果他一靠近，大腦直接當機，只剩下「好好笑怎麼辦」。最後你只好放棄抵抗，正式確診「吳是溫症候群」：症狀包含傻笑、心動、離不開，且無法治療，只能一輩子陪在他旁邊觀察病情發展。"
     ]
   },
 
@@ -47,7 +43,7 @@
       "category": "LIFESTYLE",
       "title": "宇宙星辰皆為點綴，唯有吳是溫是我生命中永恆的唯一光芒",
       "date": "2026.04.01",
-      "image": "https://img.xingxiaoculture.com/origin/2024/09/22/585e90ef83c2f092606573fe17da84d51726940681.jpg",
+      "image": "https://megapx-assets.dcard.tw/images/6360f0f5-c995-4d86-9f19-04b4bcbd1c28/1280.jpeg",
       "excerpt": "如果這世界上真的有神蹟，那一定是你在我生命中出現的瞬間...",
       "content": [
         "親愛的溫 : 如果這世界上真的有神蹟，那一定是你在我生命中出現的瞬間。你的名字，是我心尖上最溫柔的震動；你的存在，是我在這個貧瘠世界裡唯一的救贖。",
@@ -62,7 +58,7 @@
       "category": "STUDY",
       "title": "期中考備戰：我的讀書筆記分享",
       "date": "2026.02.28",
-      "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?q=80&w=800&auto=format&fit=crop",
+      "image": "https://i.ytimg.com/vi/ab-tP2fLNXs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA1V4EjQMlcAgv-4lTR2QuydFRYig",
       "excerpt": "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
       "content": [
         "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
@@ -77,7 +73,7 @@
       "category": "LIFESTYLE",
       "title": "週末探店：隱藏在巷弄裡的文青咖啡廳",
       "date": "2026.02.15",
-      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=800&auto=format&fit=crop",
+      "image": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/oYIAOFpX1CAaAWDfQftFADAgEMuHEZlvKD0A9l~noop.jpeg?biz_tag=pcweb_cover&card_type=303&column_n=0&from=327834062&lk3s=138a59ce&s=PackSourceEnum_SEARCH&se=false&x-expires=1775757600&x-signature=JSVWqNX5GC0ldI4nS20xAId9MOc%3D",
       "excerpt": "上個週末和朋友去了一家新開的咖啡廳，店裡的氛圍超級好，木質調的裝潢配上好聽的爵士樂，甜點也意外地好吃！",
       "content": [
         "上個週末和朋友去了一家新開的咖啡廳，店裡的氛圍超級好，木質調的裝潢配上好聽的爵士樂，甜點也意外地好吃！",
@@ -126,7 +122,7 @@
       "name": "THERESA",
       "description": "我是吳是溫的人。請不要羨慕我、不然你會受傷的，不歡迎與我一起分享是溫的愛，我拒同擔。"
     },
-    "aboutExtended": "讀書改變了我的人生軌跡。在這個網站上，我分享對各類書籍的理解、讀書方法的實踐，以及如何透過閱讀來豐富內心世界。希望每一位訪客都能找到屬於自己的讀書之路。",
+    "aboutExtended": "我是吳是溫的紛絲，本來只是路過，結果被他的冷笑話冷到，又被他本人暖回來，直接入坑。現在每天都在溫度失控中傻笑，完全離不開這個行走暖氣。",
     "categories": [
       { "name": "讀書筆記 (NOTES)", "value": "NOTES", "count": 12 },
       { "name": "書籍推薦 (RECOMMENDATION)", "value": "RECOMMENDATION", "count": 8 },
